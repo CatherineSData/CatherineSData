@@ -24,8 +24,12 @@ I thrive in structured environments, love improving processes, and believe that 
 ### 💬 Ask Me About
 - Occupational health protocols
 - Workforce analytics
-- Medical evaluations
 - Optimizing your H&S operations
+- Workforce analytics, dashboards & KPIs
+- Preventive and predictive strategies in occupational risk
+- Creating added value in corporate wellness initiatives
+- Communication with stakeholders and cross-functional collaboration
+- Building sustainable partnerships in health, safety & environmental causes
 
 ### ⚡ Fun Fact
 I’m a curious introvert who loves data as much as I love cooking good food for friends.
@@ -33,6 +37,6 @@ I’m a curious introvert who loves data as much as I love cooking good food for
 ---
 
 📫 **Let’s Connect**  
-[🌐 linkedin.com]([(https://www.linkedin.com/in/catherine-small1517/)]  
+[🌐 linkedin.com](https://www.linkedin.com/in/catherine-small1517/)  
 📧 mgtercsmall@gmail.com 
 
