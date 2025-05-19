@@ -37,6 +37,71 @@ I bring the discipline of process improvement, the precision of regulatory work,
 I’m a curious introvert who loves data as much as I love cooking good food for friends.
 
 ---
+# Predictive Maintenance Dashboard – Occupational Health Equipment
+
+This project simulates a predictive maintenance system for critical occupational health equipment such as audiometers, spirometers, and vision screeners. The goal is to identify failure patterns and optimize preventive actions using a Power BI dashboard and data-driven insights.
+
+## 🔧 Project Overview
+
+- **Domain:** Occupational Health / Maintenance Analytics  
+- **Tools:** Power BI, Excel, Power Query  
+- **Techniques:** Data transformation, failure analysis, KPI tracking
+
+## 📁 Dataset Summary
+
+A simulated dataset of 300+ maintenance records for medical equipment across three clinics.
+
+| Column | Description |
+|--------|-------------|
+| Equipment_ID | Unique identifier for each equipment |
+| Equipment_Type | Type of medical device |
+| Facility_Name | Name of the facility where equipment is located |
+| Installation_Date | Equipment installation date |
+| Last_Maintenance | Date of last preventive maintenance |
+| Failure_Date | Date when a failure occurred (if any) |
+| Failure_Type | Type of failure (electrical, wear and tear, etc.) |
+| Downtime_Hours | Equipment downtime in hours |
+| Repair_Cost_USD | Cost of repair in USD |
+| Next_Maintenance_Due | Scheduled next preventive maintenance |
+| Technician_Name | Person responsible for maintenance |
+| Days_Since_Last_PM | Days since the last preventive maintenance |
+| Failure_Flag | Binary indicator (1 = failure, 0 = no failure) |
+
+## 📊 Dashboard Features
+
+- Failure trends by equipment type and clinic
+- KPI cards: % of on-time maintenance, average repair cost, mean downtime
+- Visual alerts for overdue maintenance
+- Failure probability analysis based on PM gaps
+
+## 🧠 Insights (To be added after dashboard creation)
+
+> Key takeaways from the data will be presented here once the dashboard is built.
+
+## 🚀 Next Steps
+
+- [ ] Design Power BI dashboard with relevant visuals
+- [ ] Add failure probability logic (optionally using Python or Power Query)
+- [ ] Upload .pbix file to this repository
+- [ ] Record a short walkthrough video (optional)
+
+---
+
+### 📂 Files
+
+- `Predictive_Maintenance_OH_Equipment.xlsx` – Simulated dataset  
+- `README.md` – Project documentation  
+- `*.pbix` – (To be added)
+
+---
+
+### 📌 Author
+
+**Catherine S.**  
+Data Analytics & Occupational Health Specialist  
+[GitHub Portfolio](https://github.com/CatherineSData)
+
+
 
 📫 **Let’s Connect**  
 [🌐 LinkedIn](https://www.linkedin.com/in/catherine-small1517/)  
