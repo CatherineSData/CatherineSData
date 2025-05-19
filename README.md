@@ -2,7 +2,6 @@
 
 [![CatherineSData](https://drive.google.com/uc?export=view&id=1EwtLPzZ1QOrOLbn-yd2xjXOxqccdKUw_)](https://github.com/CatherineSData)
 
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 
 Hello 🌎, I’m Catherine Small, **Data Enthusiast** with an **engineering mindset** and a strong foundation in **Occupational Health & Safety**.
 
