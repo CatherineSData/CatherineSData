@@ -3,6 +3,7 @@
 [![CatherineSData](https://drive.google.com/uc?export=view&id=1EwtLPzZ1QOrOLbn-yd2xjXOxqccdKUw_)](https://github.com/CatherineSData)
 
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+
 Hello 🌎, I’m Catherine Small, **Data Enthusiast** with an **engineering mindset** and a strong foundation in **Occupational Health & Safety**.
 
 With years of experience managing large-scale workforce databases and leading compliance-driven projects, I’ve developed a deep passion for using data to tell stories, solve problems, and optimize systems. I’m now on a mission to shift from **operations to insights**—applying analytics to drive smarter, healthier, and more efficient organizations.
