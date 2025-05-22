@@ -34,7 +34,7 @@ I bring the discipline of process improvement, the precision of regulatory work,
 - Project coordination with technical and non-technical teams  
 
 ### ⚡ Fun Fact
-I’m a curious introvert who loves data as much as I love cooking good food for friends.
+I’m a curious introvert who loves data as much as I love cooking good food for friends. And I also speak Spanish.
 
 ---
 
